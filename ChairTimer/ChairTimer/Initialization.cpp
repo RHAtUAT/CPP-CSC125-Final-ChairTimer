@@ -18,8 +18,6 @@ private:
 	unsigned int timeSeconds = 0;
 	unsigned int timeMinutes = 0;
 	unsigned int timeHours = 0;
-
-
 };
 
 //Since Sleep() uses values in milliseconds these convert from milliseconds to the actual times entered by the user 
